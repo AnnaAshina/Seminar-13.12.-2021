@@ -5,6 +5,10 @@
 ## Подготовка репозитория
 
 
+
+Initialized empty Git repository in /home/user/Desktop/git_exercise/.git/
+Это значит, что наш репозиторий был успешно создан, но пока что пуст. 
+
 ## Создание коммитов
 
 ### Git add
